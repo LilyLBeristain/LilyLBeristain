@@ -1,16 +1,25 @@
-## Hi there 👋
+# Liliana Beristain
+**Backend & Full-Stack Engineer** · MSc Visual Computing @ SFU 🇨🇦
 
-<!--
-**LilyLBeristain/LilyLBeristain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5 years building production backend systems, REST APIs, and data-intensive applications.
+Currently at SFU — also shipping AI-integrated and pipeline-driven systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+**Backend** Python · Node.js · Java  
+**Databases** Oracle PL/SQL · PostgreSQL · MongoDB  
+**Frontend** React · Next.js · TypeScript  
+**AI/Data** LLM APIs · RAG pipelines · REST API design  
+**DevOps** Docker · GCP · Linux · GitHub Actions
+
+---
+
+## Featured
+**[Cross-Language Video Processing](link)** — Multi-stage CV pipeline (detection, tracking, translation, inpainting) · Docker · GCP · REST APIs
+
+**AI Tutoring Platform (Immersio)** — Full-stack language learning app with LLM/Rasa conversational agent · Next.js · Node.js
+
+---
+
+Open to co-op roles in Canada · Backend / Full-Stack / Data Systems
